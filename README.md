@@ -7,7 +7,10 @@
 
 ### 展示
 
-选择jdk、项目目录、maven setting文件(一般公司都会用私服需要指定) 选择完后点下一步会记住了
+选择jdk、项目目录、maven setting文件(一般公司都会用私服需要指定) 
+
+选择完后点下一步会保存配置方便下次使用
+
 <img src="https://s2.loli.net/2023/08/31/Rlki6GBhK8cYsbQ.png" width="500px">
 
 双击选择需要更新的项目
