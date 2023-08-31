@@ -1,0 +1,1 @@
+pyinstaller --noconsole --name=代码更新助手 --add-data "*.py;." --add-data "*.ini;." --add-data "*.bat;." main.py
